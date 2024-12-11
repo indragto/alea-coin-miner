@@ -19,3 +19,8 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.nav-menu-active{
+  background-color: #1d1da252;
+  border-radius: 10px;
+}
